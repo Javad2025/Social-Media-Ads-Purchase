@@ -31,7 +31,3 @@ For a new user:
 | Male | 24 | 19,000 |
 
 The project estimates the probability that the user will purchase the product and assigns a predicted outcome of either purchased (`1`) or not purchased (`0`).
-
-## Disclaimer
-
-Predictions are based only on patterns in the dataset. They do not guarantee an individual user’s real decision and should be used responsibly.
